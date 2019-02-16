@@ -60,7 +60,7 @@
             this.txtRequestURl.Name = "txtRequestURl";
             this.txtRequestURl.Size = new System.Drawing.Size(446, 20);
             this.txtRequestURl.TabIndex = 2;
-            this.txtRequestURl.Text = "http://api.nbp.pl/api/cenyzlota/today";
+            this.txtRequestURl.Text = "http://api.nbp.pl/api/cenyzlota";
             // 
             // txtResponse
             // 
